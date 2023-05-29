@@ -1,0 +1,15 @@
+.items{
+    text-align: center;
+}
+.item{
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.item span{
+    color: green;
+}
+
+#ptag{
+    color: brown;
+}
